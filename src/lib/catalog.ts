@@ -345,6 +345,14 @@ export const CLIPS: Clip[] = [
       "Parameter tide / wind / time-of-day = playground, bukan clip.",
       "Underwater camera + caustics untuk depth.",
     ],
+    resources: [
+      { label: "Aegean Greece 3D (Vercel)", href: "https://aegean-greece-3d.vercel.app" },
+      { label: "Aegean Greece 3D (GitHub)", href: "https://github.com/bryankwandou/aegean-greece-3d" },
+      { label: "Atlas Sejarah 3D (Vercel)", href: "https://atlas-sejarah-3d.vercel.app" },
+      { label: "Atlas Sejarah 3D (GitHub)", href: "https://github.com/bryankwandou/atlas-sejarah-3d" },
+      { label: "Terra Island 3D (Vercel)", href: "https://terra-island-3d.vercel.app" },
+      { label: "Terra Island 3D (GitHub)", href: "https://github.com/bryankwandou/terra-island-3d" },
+    ],
   },
   {
     id: "viktoroddy-codex-3d-tutorial",
